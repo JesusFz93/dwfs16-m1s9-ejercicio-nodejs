@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "colors": "^1.4.0",
+    "is-prime-number": "^2.1.0",
     "moment": "^2.29.4"
   }
 }
