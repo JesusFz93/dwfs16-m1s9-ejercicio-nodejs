@@ -14,6 +14,8 @@ const multiplicacion = (num1, num2) => {
     return num1 * num2
 }
 
+const arreglo = ["jesus", "jose"]
+
 module.exports = {
-    resta, division, suma, multiplicacion
+    resta, division, suma, multiplicacion, arreglo
 }
